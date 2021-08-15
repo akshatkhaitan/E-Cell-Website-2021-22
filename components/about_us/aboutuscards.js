@@ -5,7 +5,7 @@ import sonakshi from "../../assets/images/Executives/2.jpg";
 import nikhil from "../../assets/images/Executives/nikhil.jpg";
 import Yashsav from "../../assets/images/Executives/Yashsav_Gupta.jpg";
 import Pratyush from "../../assets/images/Executives/Pratyush_Choudhary.png";
-import Sneh from "../../assets/images/Executives/sneh.jpg";
+import Sneh from "../../assets/images/Executives/sneh.png";
 import Sanchit from "../../assets/images/tech/sanchit.jpeg";
 import Akshat from "../../assets/images/tech/AkshatK.jpg";
 import Raghuvir from "../../assets/images/tech/Raghuvir.jpg";
