@@ -1,4 +1,4 @@
-import cards from "../../styles/Peer/peer.module.css";
+import cards from "../../styles/peer/peer.module.css";
 import Link from "next/link";
 export default function Cards() {
   const data = [

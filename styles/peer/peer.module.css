@@ -53,6 +53,7 @@
 	background: -webkit-linear-gradient(to right, #121fcf 0%, #26e2ff 100%);
 	background: -moz-linear-gradient(to right, #121fcf 0%, #26e2ff 100%);
 	background: linear-gradient(to right, #121fcf 0%, #26e2ff 100%);
+	background-clip: text;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
@@ -66,7 +67,7 @@
 	align-items: center;
 	text-decoration: underline;
 	text-decoration-color: rgb(8, 126, 223);
-	text-underline-offset: 0.3em;
+	/*text-underline-offset: 0.3em; */
 	text-align: center;
 	margin-top: 100px;
 	margin-bottom: 30px;
