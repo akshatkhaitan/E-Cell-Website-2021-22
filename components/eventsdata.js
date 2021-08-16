@@ -1,30 +1,29 @@
-
 import img1 from "../assets/images/address.png";
 import img2 from "../assets/images/arrow.png";
 import img3 from "../assets/images/DV.png";
 import img4 from "../assets/images/email.png";
 import img5 from "../assets/images/phone.png";
-import gr1 from "../assets/images/Carousel/GR/gr1.jpg"
-import gr2 from "../assets/images/Carousel/GR/gr2.jpg"
-import gr3 from "../assets/images/Carousel/GR/gr3.jpg"
-import gr4 from "../assets/images/Carousel/GR/gr4.jpg"
-import gr5 from "../assets/images/Carousel/GR/gr5.jpg"
+import gr1 from "../assets/images/Carousel/GR/gr1.png";
+import gr2 from "../assets/images/Carousel/GR/gr2.png";
+import gr3 from "../assets/images/Carousel/GR/gr3.png";
+import gr4 from "../assets/images/Carousel/GR/gr4.png";
+import gr5 from "../assets/images/Carousel/GR/gr5.png";
 import bp1 from "../assets/images/Carousel/BP/bp1.png";
 import bp2 from "../assets/images/Carousel/BP/bp2.png";
 import bp3 from "../assets/images/Carousel/BP/bp3.png";
 import bp4 from "../assets/images/Carousel/BP/bp4.png";
 import bp5 from "../assets/images/Carousel/BP/bp5.png";
 import bp6 from "../assets/images/Carousel/BP/bp6.png";
-import se1 from "../assets/images/Carousel/Startup Expo/se1.jpg"
-import se2 from "../assets/images/Carousel/Startup Expo/se2.jpg"
-import se3 from "../assets/images/Carousel/Startup Expo/se3.jpg"
-import se4 from "../assets/images/Carousel/Startup Expo/se4.jpg"
-import se5 from "../assets/images/Carousel/Startup Expo/se5.jpg"
-import se6 from "../assets/images/Carousel/Startup Expo/se6.jpg"
-import se7 from "../assets/images/Carousel/Startup Expo/se7.jpg"
+import se1 from "../assets/images/Carousel/Startup Expo/se1.png";
+import se2 from "../assets/images/Carousel/Startup Expo/se2.png";
+import se3 from "../assets/images/Carousel/Startup Expo/se3.png";
+import se4 from "../assets/images/Carousel/Startup Expo/se4.png";
+import se5 from "../assets/images/Carousel/Startup Expo/se5.png";
+import se6 from "../assets/images/Carousel/Startup Expo/se6.png";
+import se7 from "../assets/images/Carousel/Startup Expo/se7.png";
 
-import sanchit from "../assets/images/tech/sanchit.jpeg"
- const eventdata = [
+import sanchit from "../assets/images/tech/sanchit.jpeg";
+const eventdata = [
   {
     event: "groundreality",
     heading: "Ground Reality",

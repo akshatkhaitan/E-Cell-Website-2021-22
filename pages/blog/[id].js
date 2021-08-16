@@ -10,7 +10,7 @@ export default function Blog({ postData }) {
         <title>{postData.title}</title>
         <script
           type="text/javascript"
-          src="https://platform-api.sharethis.com/js/sharethis.js#property=61194574dc7d7400121ac70b&product=sticky-share-buttons"
+          src={`https://platform-api.sharethis.com/js/sharethis.js#property=61194574dc7d7400121ac70b&product=sticky-share-buttons`}
           async="async"
         ></script>
       </Head>

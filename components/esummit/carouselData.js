@@ -2,7 +2,7 @@ import sanchit from "../../assets/images/tech/sanchit.jpeg";
 import gr1 from "../../assets/images/Carousel/GR/gr1.png";
 import gr2 from "../../assets/images/Carousel/GR/gr2.png";
 import gr3 from "../../assets/images/Carousel/GR/gr3.png";
-import gr4 from "../../assets/images/Carousel/GR/gr4.";
+import gr4 from "../../assets/images/Carousel/GR/gr4.png";
 import gr5 from "../../assets/images/Carousel/GR/gr5.png";
 import es1 from "../../assets/images/Carousel/ESummit/es1.png";
 import es2 from "../../assets/images/Carousel/ESummit/es2.png";
